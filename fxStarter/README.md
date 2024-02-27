@@ -1,6 +1,4 @@
-# Project Title
-
-Polygon Proof of Stake
+# Project Title: Polygon Proof of Stake
 
 ## Description
 
